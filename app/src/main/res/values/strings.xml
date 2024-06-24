@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SilentSpark</string>
+    <string name="say_hi">Hii, %s!</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_akun">Akun</string>
+    <string name="menu_pesanan">Pesanan</string>
+    <string name="menu_kelas">Kelas</string>
+    <string name="baris2">Dapatkan Pembelajaran Bahasa Isyarat Praktis, Belajar Dimanapun dan Kapanpun</string>
+    <string name="baris3">Proses belajar secara daring bersama Guru Bahasa Isyarat dari SilentSpark</string>
+    <string name="text_nav_main">Belajar Bahasa Isyarat Bersama Guru Professional!</string>
+    <string name="contoh">Belajar Bahasa Isyarat Bersama Guru Professional!</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla nec justo in sem placerat ornare ......</string>
+    <string name="price">Rp. %s</string>
+    <string name="search">Search Daftar Pesanan</string>
+</resources>
